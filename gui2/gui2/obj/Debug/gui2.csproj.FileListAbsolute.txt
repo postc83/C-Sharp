@@ -1,0 +1,9 @@
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\bin\Debug\gui2.exe.config
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\bin\Debug\gui2.exe
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\bin\Debug\gui2.pdb
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\obj\Debug\gui2.csprojResolveAssemblyReference.cache
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\obj\Debug\gui2.Form1.resources
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\obj\Debug\gui2.Properties.Resources.resources
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\obj\Debug\gui2.csproj.GenerateResource.Cache
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\obj\Debug\gui2.exe
+c:\users\laser\documents\visual studio 2017\Projects\gui2\gui2\obj\Debug\gui2.pdb
